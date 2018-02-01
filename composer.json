@@ -11,5 +11,19 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.5.*"
-    }
+    },
+    "autoload": {
+        "psr-4": {
+            "Playa\\PasswordLock\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Playa\\PasswordLock\\PasswordLockServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
