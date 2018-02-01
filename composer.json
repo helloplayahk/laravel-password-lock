@@ -1,7 +1,7 @@
 {
     "name": "playa/laravel-password-lock",
     "description": "Password lockdown Laravel Site",
-    "version": "1.0.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Mok Ka Hei",
