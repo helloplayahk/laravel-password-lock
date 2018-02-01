@@ -1,0 +1,11 @@
+{
+    "name": "playa/password-lock",
+    "description": "Password lockdown Laravel Site",
+    "authors": [
+        {
+            "name": "Mok Ka Hei",
+            "email": "mkh@playa.hk"
+        }
+    ],
+    "require": {}
+}
