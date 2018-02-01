@@ -1,5 +1,5 @@
 {
-    "name": "playa/password-lock",
+    "name": "playa/laravel-password-lock",
     "description": "Password lockdown Laravel Site",
     "authors": [
         {
